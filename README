@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=531
+
+UPDATE:  Forgot to set the String and Number options to NONE.  Have updated the script to do so.  
+
+I don't like a lot of colors.  I like how elvis highlights.  However, vim has a lot more to offer.  So this script highlights just like elvis does.  It uses white to highlight types statements and such...  It uses nothing for Normal.  If you're using Eterm, please uncomment the line to set Normal to grey since Eterm tends to have a brighter than usual Normal text.   Xterm, however, uses a lighter white so the vim "white" is good for highlighting.
+
+This scheme is easy on the eyes and a bit more professional.  If you don't like a lot of colors, this one will suit you fine.
+
